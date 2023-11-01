@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 - 👋 Hi, I’m @NicolazHenrique
-- ❗ Pronomous: Man
 - 👀 I’m interested in improving my skills and growing in the web developer profession ✔
 - 🌱 I’m currently learning HTML5, CSS3 e JS
 - 📚 Constant Learner | Forever Curious | Always Evolving 📈
